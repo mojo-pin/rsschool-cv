@@ -1,4 +1,4 @@
-![это не моя фотография](rsschool-cv/PFP.png)
+![это не моя фотография](PFP.png)
 
 # Kopytov Alexandr
 
