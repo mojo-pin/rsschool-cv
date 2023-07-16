@@ -1,3 +1,5 @@
+![Свою фотографию ставить не буду](C:\Users\aleks\OneDrive\Рабочий стол\VSCode\CV\rsschool-cv\CatPaper_PNG.png)
+
 # Kopytov Alexandr
 
 ## [Email](aleks50555gg@gmail.com)
