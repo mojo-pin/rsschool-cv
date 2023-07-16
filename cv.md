@@ -16,11 +16,13 @@
 
 ## Code examples
 
-### function multiply(a, b){
+```javascript
+function multiply(a, b){
 
-### return a \* b
+return a \* b
 
-### }
+};
+```
 
 ## Education
 
