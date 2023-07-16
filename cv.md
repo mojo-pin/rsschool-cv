@@ -1,4 +1,4 @@
-![Свою фотографию ставить не буду](C:\Users\aleks\OneDrive\Рабочий стол\VSCode\CV\rsschool-cv\CatPaper_PNG.png)
+![Свою фотографию ставить не буду](VSCode\CV\rsschool-cv\CatPaper_PNG.png)
 
 # Kopytov Alexandr
 
