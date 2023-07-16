@@ -1,22 +1,22 @@
 ![это не моя фотография](PFP.png)
 
-# Kopytov Alexandr
+# **Kopytov Alexandr**
 
-## [Email](aleks50555gg@gmail.com)
+## **Email:** aleks50555gg@gmail.com
 
-## Discord: Sasha(@mojo-pin)
+## **Discord:** Sasha(@mojo-pin)
 
 ## Future front-end developer. Very aesthetically driven, always want my works to look beautiful. Eager to learn new things and be perfect in them.
 
-## Skills
+## **Skills**
 
 ### HTML, CSS, JS, Git, GitHub
 
-## Projects
+## **Projects**
 
-### CV link is to be embeded here
+### CV
 
-## Code examples
+## **Code examples**
 
 ```javascript
 function multiply(a, b) {
@@ -24,11 +24,11 @@ function multiply(a, b) {
 }
 ```
 
-## Education
+## **Education**
 
 ### Perm National Research Polytechnical University in Russia, Perm
 
-## Languages
+## **Languages**
 
 ### Russian - Native
 
