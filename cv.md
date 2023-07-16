@@ -10,6 +10,10 @@
 
 ### HTML, CSS, JS, Git, GitHub
 
+## Projects
+
+### CV link is to be embeded here
+
 ## Code examples
 
 ### function multiply(a, b){
